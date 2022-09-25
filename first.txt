@@ -2,5 +2,10 @@ Git Command
 
 git init
 git status
-git add
+git add [file name or .]
 git commit [-v]
+comment
+i
+write comment
+esc
+:wq
