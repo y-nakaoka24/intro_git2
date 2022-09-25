@@ -2,13 +2,12 @@ Git Command
 
 git init
 git status
-git add [fileName or .]
+git add <fileName or .>
 git commit [-v]
-	comment
-	i
-	write comment
-	esc
-	:wq
-git rm [fileName]
-
-change
+	how to write comment
+	1. i
+	2. write comment
+	3. esc
+	4. :wq
+git rm <fileName or .>
+git log [--oneline][-p [fileName]]
