@@ -10,3 +10,5 @@ git commit [-v]
 	esc
 	:wq
 git rm [fileName]
+
+change
