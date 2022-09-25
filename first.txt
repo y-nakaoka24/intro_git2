@@ -10,4 +10,6 @@ git commit [-v]
 	3. esc
 	4. :wq
 git rm <fileName or .>
-git log [--oneline][-p [fileName]]
+git log [--oneline][-p [fileName]][-n <number>]
+git diff: rocal vs stage
+git diff HEAD: stage vs commit 
