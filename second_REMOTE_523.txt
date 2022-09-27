@@ -4,8 +4,4 @@
 
 ローカルから修正
 
-<<<<<<< .merge_file_BogoDJ
-衝突：ローカルで修正
-=======
 衝突：github上で修正
->>>>>>> .merge_file_N3sLRH
